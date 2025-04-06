@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/unknown007-vic/Vigneshwaran1552005/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/unknown007-vic/Vigneshwaran1552005/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
